@@ -6,7 +6,7 @@
 
 <h2 align="center"><img src="Image/Light Modern Textile Minimalism Desktop Wallpaper.jpg"></h2>
 
-I am Drashtee Parmar. Currently student and persuing Master's student in Computer Science, Artificial Intelligence at Kennesaw State University. I had worked previously at ADP as a Software Engineer.I am very keen to learn new technologies and use them in real life or improve existing softwares.Check out the projects that I've worked on so far as part of learning new technologies and applying them in real life.
+I am Drashtee Parmar. Currently student and persuing Master's of Science in Computer Science, major in Artificial Intelligence at Kennesaw State University. I had worked previously at ADP as a Software Engineer. I am very keen to learn new technologies and use them in real life or improve existing softwares.
 
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.
 
@@ -69,7 +69,8 @@ I am Drashtee Parmar. Currently student and persuing Master's student in Compute
  - []()
  - []()
  - []()
- - []() -->
+ - []() 
+ 
 
 </td><td>
 
@@ -79,7 +80,8 @@ I am Drashtee Parmar. Currently student and persuing Master's student in Compute
 </tr><tr>
 
 </tr>
-</table> -->
+</table> 
+-->
 
 <!--
 **drashteep/drashtee-parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
