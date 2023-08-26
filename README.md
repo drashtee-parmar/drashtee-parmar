@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Connect with me:</h2>
-- [LinkedIn] (https://www.linkedin.com/in/drashtee-parmar/) 
+
+- [LinkedIn](https://www.linkedin.com/in/drashtee-parmar/) 
 
 
