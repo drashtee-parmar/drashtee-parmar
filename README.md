@@ -1,8 +1,8 @@
 <!-- # drashtee-parmar -->
   <header align="center">
-    <h1>Hi, I'm Drashtee 👋 </h1>
-    <p class="subtitle">Machine Learning Engineer | Generative & Agentic AI Specialist | NLP & LLM Engineer | AI Engineer | Data Scientist</p>
-    <p class="subtitle">
+    <h1 align="center">Hi, I'm Drashtee 👋 </h1>
+    <p align="center" class="subtitle">Machine Learning Engineer | Generative & Agentic AI Specialist | NLP & LLM Engineer | AI Engineer | Data Scientist</p>
+    <p class="subtitle" align="center">
       <a href="mailto:drashteeparmar@gmail.com">📧 Email</a> |
       <a href="https://www.linkedin.com/in/drashtee-parmar/">🔗 LinkedIn</a> |
       <a href="https://github.com/drashteeparmar">💻 GitHub</a>
