@@ -4,62 +4,124 @@
 
 <h2 align="center">📝 About me</h2>
 
-<!-- <h2 align="center"><img src="Image/Light Modern Textile Minimalism Desktop Wallpaper.jpg"></h2> -->
+## 🧠 About Me
 
-<!-- I am Drashtee Parmar. Currently student and persuing Master's of Science in Computer Science, major in Artificial Intelligence at Kennesaw State University. I had worked previously at ADP as a Software Engineer. I am very keen to learn new technologies and use them in real life or improve existing softwares. -->
-As an accomplished Machine Learning Engineer, I bring 5+ years of hands-on experience in developing and implementing machine learning models to solve complex business problems. My proficiency extends to Python, Scala, and Java with a strong background in data analysis and algorithm design. 
+I am a Machine Learning Engineer specializing in Generative AI, Large Language Models (LLMs), and agentic AI systems. My expertise spans fine-tuning transformer-based architectures, building LangChain agents, and integrating graph-based retrieval systems using Neo4j. I have hands-on experience with PyTorch, Hugging Face, and OpenAI APIs to develop NLP-driven applications for real-time decision support, compliance automation, and customer interaction.
 
-I have a proven track record of effectively managing large-scale projects, demonstrating exceptional leadership while collaborating with cross-functional teams. My expertise includes Natural Language Processing, Deep Learning, Machine Learning Algorithms, AI Products like TensorFlow, Scikit-Learn, NLTK, SpaCy, NumPy and Pandas.
+I’ve led the design and deployment of scalable AI workflows across cloud platforms (AWS, GCP), optimized data pipelines using SQL and Kafka, and engineered both backend infrastructure and intelligent interfaces for enterprise AI systems.
 
-One of my significant achievements was the development and implementation of a state-of-the-art conversational AI interface leveraging TensorFlow and GPT-3. This resulted in a remarkable 25% enhancement in user interaction quality. I also led deep learning initiatives utilizing the Cornell Movie-Dialogs Corpus for training which resulted in an outstanding 92% response accuracy.
-
-In another project at Kennesaw State University, I led the development and deployment of a cutting-edge machine learning algorithm to optimize student-faculty communication using an AI-powered chatbot. This resulted in a 55% reduction in query response times.
+My goal is to drive innovation through intelligent automation, ethical AI systems, and meaningful user experiences powered by state-of-the-art language models.
 
 I am always open to new opportunities where I can leverage my skills to solve challenging problems using machine learning techniques. Feel free to reach out if you believe we could work together or exchange ideas!
 
-<!-- ## 🛠️ Core Competencies -->
-<h2 align="center">🛠️ Core Competencies</h2>
 
 
-### Languages
+<!-- ## 🧰 Core Competencies -->
+<h2 align="center">🧰 Core Competencies</h2>
+
+
+### 🧠 Machine Learning & AI  
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-Transformers-blueviolet?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-OpenAI-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Custom%20Inputs-ffcc00?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Knowledge%20Reuse-2ebfa5?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-ML%20Task-brightgreen?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-ML%20Task-blue?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-ML%20Task-orange?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-Data%20Driven-red?style=for-the-badge)
+
+---
+
+### 🗣️ Deep Learning & NLP  
+![CNN](https://img.shields.io/badge/CNN-DeepLearning-1E90FF?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-SequentialModel-00BFFF?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-MemoryModel-20B2AA?style=for-the-badge)
+![Autoencoders](https://img.shields.io/badge/Autoencoders-UnsupervisedLearning-FF7F50?style=for-the-badge)
+![Seq2Seq](https://img.shields.io/badge/Seq2Seq-Architecture-8A2BE2?style=for-the-badge)
+![Attention](https://img.shields.io/badge/Attention-Mechanism-FF1493?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-SOTA-32CD32?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Yellow-FEDC56?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-76C7C0?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-Toolkit-708090?style=for-the-badge)
+
+---
+
+### 🤖 Agentic & Autonomous AI  
+![LangChain Agents](https://img.shields.io/badge/LangChain-AgentFramework-333333?style=for-the-badge)
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-KnowledgeGraph-0077B6?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-System-3CB371?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-VectorModels-20B2AA?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & MLOps  
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Interface-7FFF00?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-F06292?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=for-the-badge&logo=githubactions)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-Search-005571?style=for-the-badge&logo=elasticsearch)
+![Splunk](https://img.shields.io/badge/Splunk-Monitoring-000000?style=for-the-badge&logo=splunk)
+
+---
+
+### 🔢 Data Engineering & Big Data  
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka)
+![Spark](https://img.shields.io/badge/Spark-BigData-FEAA2D?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-DataLake-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-API-F26522?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-Workflow-0074D9?style=for-the-badge)
+![SQL Optimization](https://img.shields.io/badge/SQL-Optimization-006699?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🗄 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-GraphDB-00BFFF?style=for-the-badge&logo=neo4j)
+
+---
+
+### 💻 Programming & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-DataQuery-3E8EDE?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### AI Products
-![NLP](https://img.shields.io/badge/Natural_Language_Processing-3776AB?style=for-the-badge&logo=nlp&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-007396?style=for-the-badge&logo=machinelearning&logoColor=white)
+---
 
-### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-107C10?style=for-the-badge&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=seaborn&logoColor=white)
+### 📊 Visualization & Analytics  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-Graph-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphs-4169E1?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistics-4682B4?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-Stats-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-Diagrams-FF6F61?style=for-the-badge)
 
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4A4A55?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+---
 
-### Large Language Models
-![GPT](https://img.shields.io/badge/GPT-002451?style=for-the-badge&logo=openai&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-76B900?style=for-the-badge&logo=bert&logoColor=white)
+### 🛠 Tools & Collaboration  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-Project-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-Docs-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Management & Collaboration Tools
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![LucidChart](https://img.shields.io/badge/LucidChart-F7760E?style=for-the-badge&logo=lucidchart&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-### Monitoring & Operations
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 
 <!-- ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.
