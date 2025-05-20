@@ -5,7 +5,7 @@
     <p class="subtitle" align="center">
       <a href="mailto:drashteeparmar@gmail.com">📧 Email</a> |
       <a href="https://www.linkedin.com/in/drashtee-parmar/">🔗 LinkedIn</a> |
-      <a href="https://github.com/drashteeparmar">💻 GitHub</a>
+      <a href="https://github.com/drashtee-parmar">💻 GitHub</a>
     </p>
   </header>
 <!-- <h1 align="center"> Hi, I'm Drashtee 👋 </h1> -->
