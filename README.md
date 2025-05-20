@@ -1,10 +1,17 @@
 <!-- # drashtee-parmar -->
-
-<h1 align="center"> Hi, I'm Drashtee 👋 </h1>
+  <header align="center">
+    <h1>Hi, I'm Drashtee 👋 </h1>
+    <p class="subtitle">Machine Learning Engineer | Generative & Agentic AI Specialist | NLP & LLM Engineer | AI Engineer | Data Scientist</p>
+    <p class="subtitle">
+      <a href="mailto:drashteeparmar@gmail.com">📧 Email</a> |
+      <a href="https://www.linkedin.com/in/drashtee-parmar/">🔗 LinkedIn</a> |
+      <a href="https://github.com/drashteeparmar">💻 GitHub</a>
+    </p>
+  </header>
+<!-- <h1 align="center"> Hi, I'm Drashtee 👋 </h1> -->
 
 <h2 align="center">📝 About me</h2>
 
-## 🧠 About Me
 
 I am a Machine Learning Engineer specializing in Generative AI, Large Language Models (LLMs), and agentic AI systems. My expertise spans fine-tuning transformer-based architectures, building LangChain agents, and integrating graph-based retrieval systems using Neo4j. I have hands-on experience with PyTorch, Hugging Face, and OpenAI APIs to develop NLP-driven applications for real-time decision support, compliance automation, and customer interaction.
 
@@ -179,25 +186,7 @@ I am always open to new opportunities where I can leverage my skills to solve ch
 </tr><tr>
 <td>
 
-<!-- ### Python  -->
- <!-- - []()
- - []()
- - []()
- - []()
- - []()
- - []() 
- 
 
-</td><td>
-
-</td><td>
-
-</td>
-</tr><tr>
-
-</tr>
-</table> 
--->
 
 <!--
 **drashteep/drashtee-parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -212,6 +201,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+<!-- 
+  <section>
+    <h2>💼 Work Experience</h2>
+    <div class="experience">
+      <strong>ADP — Machine Learning Engineer</strong> <em>(Aug 2019 – Mar 2021)</em><br/>
+      Developed a classification system using XGBoost, implemented audit logs, and built secure AWS pipelines for HR and payroll data workflows.
+    </div>
+    <div class="experience">
+      <strong>ADP — Software Engineer</strong> <em>(May 2018 – Aug 2018)</em><br/>
+      Redesigned backend and frontend of internal tracking tools, improving system performance and code maintainability.
+    </div>
+    <div class="experience">
+      <strong>Philips Respironics — Quality Assurance</strong> <em>(Jan 2012 – May 2018)</em><br/>
+      Led device testing and data-driven QA initiatives, reducing product defects and improving customer satisfaction through process automation.
+    </div>
+  </section>
+  <section>
+    <h2 align="center">🚀 Projects</h2>
+    <div class="project">
+      <strong>Conversational NL2SQL Agent</strong><br/>
+      Built with GPT-4 & LangChain to translate natural language into SQL for financial compliance.
+    </div>
+    <div class="project">
+      <strong>Graph-based RAG Policy System</strong><br/>
+      Used Neo4j and OpenAI agents to retrieve enterprise policy insights using knowledge graphs.
+    </div>
+    <div class="project">
+      <strong>AI-Powered Chat Interface</strong><br/>
+      Developed a GPT-2 + LSTM chatbot for dialogue management and context-aware conversations.
+    </div>
+    <div class="project">
+      <strong>Campus Connect Web Portal</strong><br/>
+      Created a Flask-based real-time web portal for student-faculty-alumni interaction and embedded an OpenAI chatbot to enhance user communication.
+    </div>
+  </section>
+
+  <section>
+  -->
 <!-- ## ⚡ Fun Fact -->
 <h2 align="center">⚡ Fun Fact:</h2>
 
